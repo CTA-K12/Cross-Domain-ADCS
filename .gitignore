@@ -1,0 +1,11 @@
+desktop.ini
+*.TempPoint.*
+*.Export.*
+*.psprojs
+*.RestorePoint.*
+*.Run.ps1
+*.Package.ps1
+CustomMenu.inf
+Sync-PKI/Controller-Sync-PKI.*.ps1
+Sync-PKI/PKISync.ps1
+Backup-ADCS/DumpADObj.ps1
